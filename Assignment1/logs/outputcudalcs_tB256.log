@@ -1,0 +1,272 @@
+Running with 5 different seeds...
+#####################################################################
+Seed: 123456
+
+================ VRAM Usage =================
+Allocated by program            : 4577.64 MB
+Total VRAM                      : 24240.8 MB
+Free VRAM                       : 18683.8 MB
+Used VRAM (total)               : 5557 MB
+=============================================
+
+[BinSearch] length=50000000 -> NOT FOUND, lo=1 hi=49999999
+[BinSearch] length=25000000 -> NOT FOUND, lo=1 hi=24999999
+[BinSearch] length=12500000 -> NOT FOUND, lo=1 hi=12499999
+[BinSearch] length=6250000 -> NOT FOUND, lo=1 hi=6249999
+[BinSearch] length=3125000 -> NOT FOUND, lo=1 hi=3124999
+[BinSearch] length=1562500 -> NOT FOUND, lo=1 hi=1562499
+[BinSearch] length=781250 -> NOT FOUND, lo=1 hi=781249
+[BinSearch] length=390625 -> NOT FOUND, lo=1 hi=390624
+[BinSearch] length=195312 -> NOT FOUND, lo=1 hi=195311
+[BinSearch] length=97656 -> NOT FOUND, lo=1 hi=97655
+[BinSearch] length=48828 -> NOT FOUND, lo=1 hi=48827
+[BinSearch] length=24414 -> NOT FOUND, lo=1 hi=24413
+[BinSearch] length=12207 -> NOT FOUND, lo=1 hi=12206
+[BinSearch] length=6103 -> NOT FOUND, lo=1 hi=6102
+[BinSearch] length=3051 -> NOT FOUND, lo=1 hi=3050
+[BinSearch] length=1525 -> NOT FOUND, lo=1 hi=1524
+[BinSearch] length=762 -> NOT FOUND, lo=1 hi=761
+[BinSearch] length=381 -> NOT FOUND, lo=1 hi=380
+[BinSearch] length=190 -> NOT FOUND, lo=1 hi=189
+[BinSearch] length=95 -> NOT FOUND, lo=1 hi=94
+[BinSearch] length=47 -> NOT FOUND, lo=1 hi=46
+[BinSearch] length=23 -> NOT FOUND, lo=1 hi=22
+[BinSearch] length=11 -> FOUND (3 matches), lo=12 hi=22
+[BinSearch] length=17 -> NOT FOUND, lo=12 hi=16
+[BinSearch] length=14 -> NOT FOUND, lo=12 hi=13
+[BinSearch] length=12 -> NOT FOUND, lo=12 hi=11
+
+==================== Results ====================
+Total matches found             : 3
+Longest common substring length : 11
+Time taken                      : 8370 ms
+
+--- Match 1 ---
+String A start index            : 63494839
+String B start index            : 68602998
+Substring from A                : DFHGWYSXQRW
+Substring from B                : DFHGWYSXQRW
+
+--- Match 2 ---
+String A start index            : 70184530
+String B start index            : 94086294
+Substring from A                : AHZKAQACEFL
+Substring from B                : AHZKAQACEFL
+
+--- Match 3 ---
+String A start index            : 57924038
+String B start index            : 6654234
+Substring from A                : OGSTMKKBRXU
+Substring from B                : OGSTMKKBRXU
+================================================
+#####################################################################
+Seed: 548621
+
+================ VRAM Usage =================
+Allocated by program            : 4577.64 MB
+Total VRAM                      : 24240.8 MB
+Free VRAM                       : 18683.8 MB
+Used VRAM (total)               : 5557 MB
+=============================================
+
+[BinSearch] length=50000000 -> NOT FOUND, lo=1 hi=49999999
+[BinSearch] length=25000000 -> NOT FOUND, lo=1 hi=24999999
+[BinSearch] length=12500000 -> NOT FOUND, lo=1 hi=12499999
+[BinSearch] length=6250000 -> NOT FOUND, lo=1 hi=6249999
+[BinSearch] length=3125000 -> NOT FOUND, lo=1 hi=3124999
+[BinSearch] length=1562500 -> NOT FOUND, lo=1 hi=1562499
+[BinSearch] length=781250 -> NOT FOUND, lo=1 hi=781249
+[BinSearch] length=390625 -> NOT FOUND, lo=1 hi=390624
+[BinSearch] length=195312 -> NOT FOUND, lo=1 hi=195311
+[BinSearch] length=97656 -> NOT FOUND, lo=1 hi=97655
+[BinSearch] length=48828 -> NOT FOUND, lo=1 hi=48827
+[BinSearch] length=24414 -> NOT FOUND, lo=1 hi=24413
+[BinSearch] length=12207 -> NOT FOUND, lo=1 hi=12206
+[BinSearch] length=6103 -> NOT FOUND, lo=1 hi=6102
+[BinSearch] length=3051 -> NOT FOUND, lo=1 hi=3050
+[BinSearch] length=1525 -> NOT FOUND, lo=1 hi=1524
+[BinSearch] length=762 -> NOT FOUND, lo=1 hi=761
+[BinSearch] length=381 -> NOT FOUND, lo=1 hi=380
+[BinSearch] length=190 -> NOT FOUND, lo=1 hi=189
+[BinSearch] length=95 -> NOT FOUND, lo=1 hi=94
+[BinSearch] length=47 -> NOT FOUND, lo=1 hi=46
+[BinSearch] length=23 -> NOT FOUND, lo=1 hi=22
+[BinSearch] length=11 -> FOUND (2 matches), lo=12 hi=22
+[BinSearch] length=17 -> NOT FOUND, lo=12 hi=16
+[BinSearch] length=14 -> NOT FOUND, lo=12 hi=13
+[BinSearch] length=12 -> NOT FOUND, lo=12 hi=11
+
+==================== Results ====================
+Total matches found             : 2
+Longest common substring length : 11
+Time taken                      : 6886 ms
+
+--- Match 1 ---
+String A start index            : 45056378
+String B start index            : 89860883
+Substring from A                : ZTHEYKCUQRX
+Substring from B                : ZTHEYKCUQRX
+
+--- Match 2 ---
+String A start index            : 42535212
+String B start index            : 85795415
+Substring from A                : QUZWEQJCSOE
+Substring from B                : QUZWEQJCSOE
+================================================
+#####################################################################
+Seed: 589123
+
+================ VRAM Usage =================
+Allocated by program            : 4577.64 MB
+Total VRAM                      : 24240.8 MB
+Free VRAM                       : 18683.8 MB
+Used VRAM (total)               : 5557 MB
+=============================================
+
+[BinSearch] length=50000000 -> NOT FOUND, lo=1 hi=49999999
+[BinSearch] length=25000000 -> NOT FOUND, lo=1 hi=24999999
+[BinSearch] length=12500000 -> NOT FOUND, lo=1 hi=12499999
+[BinSearch] length=6250000 -> NOT FOUND, lo=1 hi=6249999
+[BinSearch] length=3125000 -> NOT FOUND, lo=1 hi=3124999
+[BinSearch] length=1562500 -> NOT FOUND, lo=1 hi=1562499
+[BinSearch] length=781250 -> NOT FOUND, lo=1 hi=781249
+[BinSearch] length=390625 -> NOT FOUND, lo=1 hi=390624
+[BinSearch] length=195312 -> NOT FOUND, lo=1 hi=195311
+[BinSearch] length=97656 -> NOT FOUND, lo=1 hi=97655
+[BinSearch] length=48828 -> NOT FOUND, lo=1 hi=48827
+[BinSearch] length=24414 -> NOT FOUND, lo=1 hi=24413
+[BinSearch] length=12207 -> NOT FOUND, lo=1 hi=12206
+[BinSearch] length=6103 -> NOT FOUND, lo=1 hi=6102
+[BinSearch] length=3051 -> NOT FOUND, lo=1 hi=3050
+[BinSearch] length=1525 -> NOT FOUND, lo=1 hi=1524
+[BinSearch] length=762 -> NOT FOUND, lo=1 hi=761
+[BinSearch] length=381 -> NOT FOUND, lo=1 hi=380
+[BinSearch] length=190 -> NOT FOUND, lo=1 hi=189
+[BinSearch] length=95 -> NOT FOUND, lo=1 hi=94
+[BinSearch] length=47 -> NOT FOUND, lo=1 hi=46
+[BinSearch] length=23 -> NOT FOUND, lo=1 hi=22
+[BinSearch] length=11 -> FOUND (4 matches), lo=12 hi=22
+[BinSearch] length=17 -> NOT FOUND, lo=12 hi=16
+[BinSearch] length=14 -> NOT FOUND, lo=12 hi=13
+[BinSearch] length=12 -> FOUND (1 matches), lo=13 hi=13
+[BinSearch] length=13 -> NOT FOUND, lo=13 hi=12
+
+==================== Results ====================
+Total matches found             : 1
+Longest common substring length : 12
+Time taken                      : 7012 ms
+
+--- Match 1 ---
+String A start index            : 89954264
+String B start index            : 92530125
+Substring from A                : LMNGHOTLAPKT
+Substring from B                : LMNGHOTLAPKT
+================================================
+#####################################################################
+Seed: 268421
+
+================ VRAM Usage =================
+Allocated by program            : 4577.64 MB
+Total VRAM                      : 24240.8 MB
+Free VRAM                       : 18683.8 MB
+Used VRAM (total)               : 5557 MB
+=============================================
+
+[BinSearch] length=50000000 -> NOT FOUND, lo=1 hi=49999999
+[BinSearch] length=25000000 -> NOT FOUND, lo=1 hi=24999999
+[BinSearch] length=12500000 -> NOT FOUND, lo=1 hi=12499999
+[BinSearch] length=6250000 -> NOT FOUND, lo=1 hi=6249999
+[BinSearch] length=3125000 -> NOT FOUND, lo=1 hi=3124999
+[BinSearch] length=1562500 -> NOT FOUND, lo=1 hi=1562499
+[BinSearch] length=781250 -> NOT FOUND, lo=1 hi=781249
+[BinSearch] length=390625 -> NOT FOUND, lo=1 hi=390624
+[BinSearch] length=195312 -> NOT FOUND, lo=1 hi=195311
+[BinSearch] length=97656 -> NOT FOUND, lo=1 hi=97655
+[BinSearch] length=48828 -> NOT FOUND, lo=1 hi=48827
+[BinSearch] length=24414 -> NOT FOUND, lo=1 hi=24413
+[BinSearch] length=12207 -> NOT FOUND, lo=1 hi=12206
+[BinSearch] length=6103 -> NOT FOUND, lo=1 hi=6102
+[BinSearch] length=3051 -> NOT FOUND, lo=1 hi=3050
+[BinSearch] length=1525 -> NOT FOUND, lo=1 hi=1524
+[BinSearch] length=762 -> NOT FOUND, lo=1 hi=761
+[BinSearch] length=381 -> NOT FOUND, lo=1 hi=380
+[BinSearch] length=190 -> NOT FOUND, lo=1 hi=189
+[BinSearch] length=95 -> NOT FOUND, lo=1 hi=94
+[BinSearch] length=47 -> NOT FOUND, lo=1 hi=46
+[BinSearch] length=23 -> NOT FOUND, lo=1 hi=22
+[BinSearch] length=11 -> FOUND (2 matches), lo=12 hi=22
+[BinSearch] length=17 -> NOT FOUND, lo=12 hi=16
+[BinSearch] length=14 -> NOT FOUND, lo=12 hi=13
+[BinSearch] length=12 -> NOT FOUND, lo=12 hi=11
+
+==================== Results ====================
+Total matches found             : 2
+Longest common substring length : 11
+Time taken                      : 6925 ms
+
+--- Match 1 ---
+String A start index            : 12397490
+String B start index            : 69257964
+Substring from A                : OQJFRVNBWYE
+Substring from B                : OQJFRVNBWYE
+
+--- Match 2 ---
+String A start index            : 14113634
+String B start index            : 95895396
+Substring from A                : YLKIFPKJUGR
+Substring from B                : YLKIFPKJUGR
+================================================
+#####################################################################
+Seed: 784152
+
+================ VRAM Usage =================
+Allocated by program            : 4577.64 MB
+Total VRAM                      : 24240.8 MB
+Free VRAM                       : 18683.8 MB
+Used VRAM (total)               : 5557 MB
+=============================================
+
+[BinSearch] length=50000000 -> NOT FOUND, lo=1 hi=49999999
+[BinSearch] length=25000000 -> NOT FOUND, lo=1 hi=24999999
+[BinSearch] length=12500000 -> NOT FOUND, lo=1 hi=12499999
+[BinSearch] length=6250000 -> NOT FOUND, lo=1 hi=6249999
+[BinSearch] length=3125000 -> NOT FOUND, lo=1 hi=3124999
+[BinSearch] length=1562500 -> NOT FOUND, lo=1 hi=1562499
+[BinSearch] length=781250 -> NOT FOUND, lo=1 hi=781249
+[BinSearch] length=390625 -> NOT FOUND, lo=1 hi=390624
+[BinSearch] length=195312 -> NOT FOUND, lo=1 hi=195311
+[BinSearch] length=97656 -> NOT FOUND, lo=1 hi=97655
+[BinSearch] length=48828 -> NOT FOUND, lo=1 hi=48827
+[BinSearch] length=24414 -> NOT FOUND, lo=1 hi=24413
+[BinSearch] length=12207 -> NOT FOUND, lo=1 hi=12206
+[BinSearch] length=6103 -> NOT FOUND, lo=1 hi=6102
+[BinSearch] length=3051 -> NOT FOUND, lo=1 hi=3050
+[BinSearch] length=1525 -> NOT FOUND, lo=1 hi=1524
+[BinSearch] length=762 -> NOT FOUND, lo=1 hi=761
+[BinSearch] length=381 -> NOT FOUND, lo=1 hi=380
+[BinSearch] length=190 -> NOT FOUND, lo=1 hi=189
+[BinSearch] length=95 -> NOT FOUND, lo=1 hi=94
+[BinSearch] length=47 -> NOT FOUND, lo=1 hi=46
+[BinSearch] length=23 -> NOT FOUND, lo=1 hi=22
+[BinSearch] length=11 -> FOUND (2 matches), lo=12 hi=22
+[BinSearch] length=17 -> NOT FOUND, lo=12 hi=16
+[BinSearch] length=14 -> NOT FOUND, lo=12 hi=13
+[BinSearch] length=12 -> NOT FOUND, lo=12 hi=11
+
+==================== Results ====================
+Total matches found             : 2
+Longest common substring length : 11
+Time taken                      : 6884 ms
+
+--- Match 1 ---
+String A start index            : 72422075
+String B start index            : 96218704
+Substring from A                : NKFQFJURSGV
+Substring from B                : NKFQFJURSGV
+
+--- Match 2 ---
+String A start index            : 63559373
+String B start index            : 42421783
+Substring from A                : NHRSJWSQNBG
+Substring from B                : NHRSJWSQNBG
+================================================

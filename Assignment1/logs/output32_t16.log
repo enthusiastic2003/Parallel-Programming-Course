@@ -1,0 +1,177 @@
+Running with 5 different seeds...
+Total allocated SLURM CPUS: (32)
+Number of threads: 16
+#####################################################################
+Seed: 123456
+Current length: 50000000, lo: 0, hi: 100000000
+Current length: 24999999, lo: 0, hi: 49999999
+Current length: 12499999, lo: 0, hi: 24999998
+Current length: 6249999, lo: 0, hi: 12499998
+Current length: 3124999, lo: 0, hi: 6249998
+Current length: 1562499, lo: 0, hi: 3124998
+Current length: 781249, lo: 0, hi: 1562498
+Current length: 390624, lo: 0, hi: 781248
+Current length: 195311, lo: 0, hi: 390623
+Current length: 97655, lo: 0, hi: 195310
+Current length: 48827, lo: 0, hi: 97654
+Current length: 24413, lo: 0, hi: 48826
+Current length: 12206, lo: 0, hi: 24412
+Current length: 6102, lo: 0, hi: 12205
+Current length: 3050, lo: 0, hi: 6101
+Current length: 1524, lo: 0, hi: 3049
+Current length: 761, lo: 0, hi: 1523
+Current length: 380, lo: 0, hi: 760
+Current length: 189, lo: 0, hi: 379
+Current length: 94, lo: 0, hi: 188
+Current length: 46, lo: 0, hi: 93
+Current length: 22, lo: 0, hi: 45
+Current length: 10, lo: 0, hi: 21
+Current length: 16, lo: 11, hi: 21
+Current length: 13, lo: 11, hi: 15
+Current length: 11, lo: 11, hi: 12
+Current length: 12, lo: 12, hi: 12
+Length of longest common substring: 11
+Substring in strA: AHZKAQACEFL ;  Start: 70184530
+Substring in strB: AHZKAQACEFL ;  Start: 94086294
+Time taken: 106778 ms
+####################################################################
+Number of threads: 16
+#####################################################################
+Seed: 548621
+Current length: 50000000, lo: 0, hi: 100000000
+Current length: 24999999, lo: 0, hi: 49999999
+Current length: 12499999, lo: 0, hi: 24999998
+Current length: 6249999, lo: 0, hi: 12499998
+Current length: 3124999, lo: 0, hi: 6249998
+Current length: 1562499, lo: 0, hi: 3124998
+Current length: 781249, lo: 0, hi: 1562498
+Current length: 390624, lo: 0, hi: 781248
+Current length: 195311, lo: 0, hi: 390623
+Current length: 97655, lo: 0, hi: 195310
+Current length: 48827, lo: 0, hi: 97654
+Current length: 24413, lo: 0, hi: 48826
+Current length: 12206, lo: 0, hi: 24412
+Current length: 6102, lo: 0, hi: 12205
+Current length: 3050, lo: 0, hi: 6101
+Current length: 1524, lo: 0, hi: 3049
+Current length: 761, lo: 0, hi: 1523
+Current length: 380, lo: 0, hi: 760
+Current length: 189, lo: 0, hi: 379
+Current length: 94, lo: 0, hi: 188
+Current length: 46, lo: 0, hi: 93
+Current length: 22, lo: 0, hi: 45
+Current length: 10, lo: 0, hi: 21
+Current length: 16, lo: 11, hi: 21
+Current length: 13, lo: 11, hi: 15
+Current length: 11, lo: 11, hi: 12
+Current length: 12, lo: 12, hi: 12
+Length of longest common substring: 11
+Substring in strA: ZTHEYKCUQRX ;  Start: 45056378
+Substring in strB: ZTHEYKCUQRX ;  Start: 89860883
+Time taken: 108277 ms
+####################################################################
+Number of threads: 16
+#####################################################################
+Seed: 589123
+Current length: 50000000, lo: 0, hi: 100000000
+Current length: 24999999, lo: 0, hi: 49999999
+Current length: 12499999, lo: 0, hi: 24999998
+Current length: 6249999, lo: 0, hi: 12499998
+Current length: 3124999, lo: 0, hi: 6249998
+Current length: 1562499, lo: 0, hi: 3124998
+Current length: 781249, lo: 0, hi: 1562498
+Current length: 390624, lo: 0, hi: 781248
+Current length: 195311, lo: 0, hi: 390623
+Current length: 97655, lo: 0, hi: 195310
+Current length: 48827, lo: 0, hi: 97654
+Current length: 24413, lo: 0, hi: 48826
+Current length: 12206, lo: 0, hi: 24412
+Current length: 6102, lo: 0, hi: 12205
+Current length: 3050, lo: 0, hi: 6101
+Current length: 1524, lo: 0, hi: 3049
+Current length: 761, lo: 0, hi: 1523
+Current length: 380, lo: 0, hi: 760
+Current length: 189, lo: 0, hi: 379
+Current length: 94, lo: 0, hi: 188
+Current length: 46, lo: 0, hi: 93
+Current length: 22, lo: 0, hi: 45
+Current length: 10, lo: 0, hi: 21
+Current length: 16, lo: 11, hi: 21
+Current length: 13, lo: 11, hi: 15
+Current length: 11, lo: 11, hi: 12
+Current length: 12, lo: 12, hi: 12
+Length of longest common substring: 12
+Substring in strA: LMNGHOTLAPKT ;  Start: 89954264
+Substring in strB: LMNGHOTLAPKT ;  Start: 92530125
+Time taken: 109347 ms
+####################################################################
+Number of threads: 16
+#####################################################################
+Seed: 268421
+Current length: 50000000, lo: 0, hi: 100000000
+Current length: 24999999, lo: 0, hi: 49999999
+Current length: 12499999, lo: 0, hi: 24999998
+Current length: 6249999, lo: 0, hi: 12499998
+Current length: 3124999, lo: 0, hi: 6249998
+Current length: 1562499, lo: 0, hi: 3124998
+Current length: 781249, lo: 0, hi: 1562498
+Current length: 390624, lo: 0, hi: 781248
+Current length: 195311, lo: 0, hi: 390623
+Current length: 97655, lo: 0, hi: 195310
+Current length: 48827, lo: 0, hi: 97654
+Current length: 24413, lo: 0, hi: 48826
+Current length: 12206, lo: 0, hi: 24412
+Current length: 6102, lo: 0, hi: 12205
+Current length: 3050, lo: 0, hi: 6101
+Current length: 1524, lo: 0, hi: 3049
+Current length: 761, lo: 0, hi: 1523
+Current length: 380, lo: 0, hi: 760
+Current length: 189, lo: 0, hi: 379
+Current length: 94, lo: 0, hi: 188
+Current length: 46, lo: 0, hi: 93
+Current length: 22, lo: 0, hi: 45
+Current length: 10, lo: 0, hi: 21
+Current length: 16, lo: 11, hi: 21
+Current length: 13, lo: 11, hi: 15
+Current length: 11, lo: 11, hi: 12
+Current length: 12, lo: 12, hi: 12
+Length of longest common substring: 11
+Substring in strA: OQJFRVNBWYE ;  Start: 12397490
+Substring in strB: OQJFRVNBWYE ;  Start: 69257964
+Time taken: 107479 ms
+####################################################################
+Number of threads: 16
+#####################################################################
+Seed: 784152
+Current length: 50000000, lo: 0, hi: 100000000
+Current length: 24999999, lo: 0, hi: 49999999
+Current length: 12499999, lo: 0, hi: 24999998
+Current length: 6249999, lo: 0, hi: 12499998
+Current length: 3124999, lo: 0, hi: 6249998
+Current length: 1562499, lo: 0, hi: 3124998
+Current length: 781249, lo: 0, hi: 1562498
+Current length: 390624, lo: 0, hi: 781248
+Current length: 195311, lo: 0, hi: 390623
+Current length: 97655, lo: 0, hi: 195310
+Current length: 48827, lo: 0, hi: 97654
+Current length: 24413, lo: 0, hi: 48826
+Current length: 12206, lo: 0, hi: 24412
+Current length: 6102, lo: 0, hi: 12205
+Current length: 3050, lo: 0, hi: 6101
+Current length: 1524, lo: 0, hi: 3049
+Current length: 761, lo: 0, hi: 1523
+Current length: 380, lo: 0, hi: 760
+Current length: 189, lo: 0, hi: 379
+Current length: 94, lo: 0, hi: 188
+Current length: 46, lo: 0, hi: 93
+Current length: 22, lo: 0, hi: 45
+Current length: 10, lo: 0, hi: 21
+Current length: 16, lo: 11, hi: 21
+Current length: 13, lo: 11, hi: 15
+Current length: 11, lo: 11, hi: 12
+Current length: 12, lo: 12, hi: 12
+Length of longest common substring: 11
+Substring in strA: NKFQFJURSGV ;  Start: 72422075
+Substring in strB: NKFQFJURSGV ;  Start: 96218704
+Time taken: 108435 ms
+####################################################################
